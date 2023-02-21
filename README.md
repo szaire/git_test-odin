@@ -1,2 +1,4 @@
 # git_test-odin
-this is just a test so *ignore it :)*
+
+My umpteenth Github Repo!
+The Odin Project test!
